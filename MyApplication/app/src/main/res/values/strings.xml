@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string-array name="Usuarios">
+        <item>Usuario 1</item>
+        <item>Usuario 2</item>
+        <item>Usuario 3</item>
+    </string-array>
+</resources>
